@@ -11,7 +11,17 @@ body {
     line-height: 28px;
     color: #6a6a6a;
     font-size: 14px;
-    background-color: #eff2f1; 
+    background-color: #eff2f1;
+    margin: 0%;
+    padding: 0%; 
+}
+.text-home {
+    color: #f9bf29;
+    text-shadow: 2px 3px #2f2f2f;
+    font-weight: 600;
+}
+#p1 {
+    text-shadow: 1px 1px #000000;
 }
 
 a {
@@ -38,7 +48,8 @@ a.more {
 }
 .custom-navbar .navbar-brand {
     font-size: 32px;
-    font-weight: 600; 
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .custom-navbar .navbar-brand:hover {
     font-size: 32px;
